@@ -7,3 +7,6 @@
 $ git init
 Initlaied empty Git Repository in certain URL
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Itroduce myself to the world
